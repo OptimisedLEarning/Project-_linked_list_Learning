@@ -1,7 +1,7 @@
-# Project-_linked_list_Learning
- 
-creste a LinkedList class / factory, which will represent the full list.
- create Node class / factory, containing a value property and a nextNode property, set both as null by default.
+# Project-\_linked_list_Learning
+
+Create a LinkedList class / factory, which will represent the full list.
+Create Node class / factory, containing a value property and a nextNode property, set both as null by default.
 
 Build the following functions in your linked list class / factory:
 append(value) adds a new node containing value to the end of the list
